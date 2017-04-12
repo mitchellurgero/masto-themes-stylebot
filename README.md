@@ -14,4 +14,4 @@ Custom CSS for Mastodon using Chrome Extension Style Bot
 8. Click "Save" and then in the list of style make sure the checkbox next to your instance URL is checked.
 9. Reload your site and watch the magic as the colors and some basic formatting is made automatically!
 
-If you have issues, contact me via a toot (@stitchxd@gnusocial.me) or open an issue here on GitHub.
+If you have issues, contact me via a toot [@stitchxd@gnusocial.me](https://gnusocial.me/stitchxd) or open an issue here on GitHub.
